@@ -15,14 +15,14 @@ public class MyEditorClass : Editor
         Dialogue myBehaviour = target as Dialogue;
 
         myBehaviour.currentType = (Dialogue.typeOfDialogue)EditorGUILayout.EnumPopup("Current type", myBehaviour.currentType);
-
+        
         switch (myBehaviour.currentType)
         {
             case Dialogue.typeOfDialogue.dialogue:
                 myBehaviour.characterNameToDisplay = EditorGUILayout.TextField("Character Name to Display:", myBehaviour.characterNameToDisplay);
                 myBehaviour.characterImage = EditorGUILayout.IntField("Image:", myBehaviour.characterImage);
                 myBehaviour.dialogText = EditorGUILayout.TextField("Dialogue Text:", myBehaviour.dialogText);
-                myBehaviour.additionalEffects = EditorGUILayout.IntField("Additional Effect:", myBehaviour.additionalEffects);
+                //myBehaviour.additionalEffects = EditorGUILayout.IntField("Additional Effect:", myBehaviour.additionalEffects);
                 myBehaviour.position = EditorGUILayout.IntSlider("Position:", myBehaviour.position, 0, 1);
                 myBehaviour.speedOfLetters = EditorGUILayout.FloatField("Speed of Letters:", myBehaviour.speedOfLetters);
                 EditorGUILayout.Space();
@@ -46,6 +46,20 @@ public class MyEditorClass : Editor
                 myBehaviour.answerThree = EditorGUILayout.TextField("Third Answer:", myBehaviour.answerThree);
                 myBehaviour.nextDialogueIDThree = EditorGUILayout.IntField("Next ID Third:", myBehaviour.nextDialogueIDThree);
                 break;
+
+            case Dialogue.typeOfDialogue.split:
+                myBehaviour.clauseAndReason = EditorGUILayout.IntField("Clause to Compare:", myBehaviour.clauseAndReason);
+                myBehaviour.clauseTrueID = EditorGUILayout.IntField("ID if Clause is True", myBehaviour.clauseTrueID);
+                myBehaviour.clauseFalseID = EditorGUILayout.IntField("ID if Clause is False", myBehaviour.clauseFalseID);
+                break;
+
+            case Dialogue.typeOfDialogue.enterName:
+                myBehaviour.nextDialogueID = EditorGUILayout.IntField("Next Dialogue ID:", myBehaviour.nextDialogueID);
+                break;
         }
+
+        myBehaviour.consequenceID = EditorGUILayout.IntField("Consequence", myBehaviour.consequenceID);
+        myBehaviour.bonusRep = EditorGUILayout.IntField("Bonus Rep", myBehaviour.bonusRep);
+        myBehaviour.bonusRepID = EditorGUILayout.IntField("Bonus Rep to ID", myBehaviour.bonusRepID);
     }
 }

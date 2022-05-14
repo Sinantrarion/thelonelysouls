@@ -1,0 +1,710 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6138372077747138200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6138372077747138212}
+  - component: {fileID: 6138372077747138213}
+  - component: {fileID: 6138372077747138214}
+  - component: {fileID: 6138372077747138215}
+  - component: {fileID: 6138372077747138216}
+  - component: {fileID: 6138372077747138217}
+  - component: {fileID: 6138372077747138218}
+  - component: {fileID: 6138372077747138219}
+  - component: {fileID: 6138372077747138220}
+  - component: {fileID: 6138372077747138221}
+  - component: {fileID: 6138372077747138222}
+  - component: {fileID: 6138372077747138223}
+  - component: {fileID: 6138372077747138192}
+  - component: {fileID: 6138372077747138193}
+  - component: {fileID: 6138372077747138194}
+  - component: {fileID: 6138372077747138195}
+  - component: {fileID: 6138372077747138196}
+  - component: {fileID: 6138372077747138197}
+  - component: {fileID: 6138372077747138198}
+  - component: {fileID: 6138372077747138199}
+  - component: {fileID: 6138372077747138211}
+  m_Layer: 0
+  m_Name: Buff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6138372077747138212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2, y: 2, z: 0.85}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6138372077747138213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e137ac1a418b3a4ba60b6c56db9fc25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterDialogue:
+  - {fileID: 6138372077747138214}
+  - {fileID: 6138372077747138215}
+  - {fileID: 6138372077747138216}
+  - {fileID: 6138372077747138217}
+  - {fileID: 6138372077747138218}
+  - {fileID: 6138372077747138219}
+  - {fileID: 6138372077747138220}
+  - {fileID: 6138372077747138221}
+  - {fileID: 6138372077747138222}
+  - {fileID: 6138372077747138223}
+  - {fileID: 6138372077747138192}
+  - {fileID: 6138372077747138193}
+  - {fileID: 6138372077747138194}
+  - {fileID: 6138372077747138195}
+  - {fileID: 6138372077747138196}
+  - {fileID: 6138372077747138197}
+  - {fileID: 6138372077747138198}
+  - {fileID: 6138372077747138199}
+  - {fileID: 6138372077747138211}
+--- !u!114 &6138372077747138214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Hey, man, not cool, really, you should watch where you\u2019re going"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 14
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: 'Hey, stop you looking at me like that. Or I will release you back
+    into the ground. '
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 15
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: 'Not really, but okay. So, you also going there? '
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 17
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Oh hell yes you bet. Planning to get myself somebody, and get the
+    hell out of there as fast as possible. But if you\u2019ll need some muscles,
+    feel free to find me."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 18
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Well, it would probably be a good idea not to repeat that.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 203
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Hah, you\u2019re funny. From your looks and the fact that you already
+    tried to flirt with me, you also going in there? Well, here you go."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 20
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Well, if you\u2019ll need me, you can find me there. For my muscles\u2026
+    or for whatever else you might wish for."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 21
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Well if it isn\u2019t our unstable friend! Well of course you could
+    sit here, come, come, it has been quite boring."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 94
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Would you be willing to chat, or did you just want to sit here with
+    me?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 98
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Well of course you could sit here, come, here, let me move aside just
+    a bit.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 97
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Would you be willing to chat, or did you just want to sit here with
+    me?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 98
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "Ah, well, if that\u2019s the case, you can just ask me something and
+    I can answer, as I was just about to finish anyway."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 138
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Yep, gotcha, all god then, fully understand.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 99
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: Well, probably just like everybody else- find myself a bro for life
+    and get the hell out. You?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 247
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Buff
+  characterImage: 0
+  dialogText: "See? Don\u2019t have much more to answer to stuff like that, but still
+    thanks for asking, I guess. "
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 139
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@BuffName'
+  characterImage: 0
+  dialogText: "Eh, not much to tell. I\u2019m 28, name\u2019s @BuffName by the way,
+    come from the downtown city, and have been boxing for a few years. Have some
+    smaller hobbies, but, well, nothing to write stories about, really."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 141
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@BuffName'
+  characterImage: 0
+  dialogText: "Thanks to you as much. Nice meeting a friendly talkative person such
+    as you. I\u2019m really not sure how to do all that \u201Ctalking\u201D thing,
+    so sorry, and yeah, good night to you as well."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 143
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@BuffName'
+  characterImage: 0
+  dialogText: What is it?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 251
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &6138372077747138211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6138372077747138200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@BuffName'
+  characterImage: 0
+  dialogText: "You, I like you. Newcomers should stick together, right? Well, then,
+    if you propose, I will find you tomorrow in the morning. And I hope you won\u2019t
+    oversleep! "
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 146
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0

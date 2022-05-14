@@ -1,0 +1,3570 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3559512201976096641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3559512201976096670}
+  - component: {fileID: 3559512201976096665}
+  - component: {fileID: 3559512201976096664}
+  - component: {fileID: 3559512201976096667}
+  - component: {fileID: 3559512201976096666}
+  - component: {fileID: 3559512201976096661}
+  - component: {fileID: 3559512201976096660}
+  - component: {fileID: 3559512201976096663}
+  - component: {fileID: 3559512201976096662}
+  - component: {fileID: 3559512201976096657}
+  - component: {fileID: 3559512201976096656}
+  - component: {fileID: 3559512201976096659}
+  - component: {fileID: 3559512201976096658}
+  - component: {fileID: 3559512201976096653}
+  - component: {fileID: 3559512201976096652}
+  - component: {fileID: 3559512201976096655}
+  - component: {fileID: 3559512201976096654}
+  - component: {fileID: 3559512201976096649}
+  - component: {fileID: 3559512201976096648}
+  - component: {fileID: 3559512201976096651}
+  - component: {fileID: 3559512201976096650}
+  - component: {fileID: 3559512201976096645}
+  - component: {fileID: 3559512201976096644}
+  - component: {fileID: 3559512201976096647}
+  - component: {fileID: 3559512201976096646}
+  - component: {fileID: 3559512201976096692}
+  - component: {fileID: 3559512201976096695}
+  - component: {fileID: 3559512201976096694}
+  - component: {fileID: 3559512201976096689}
+  - component: {fileID: 3559512201976096688}
+  - component: {fileID: 3559512201976096691}
+  - component: {fileID: 3559512201976096690}
+  - component: {fileID: 3559512201976096685}
+  - component: {fileID: 3559512201976096684}
+  - component: {fileID: 3559512201976096687}
+  - component: {fileID: 3559512201976096686}
+  - component: {fileID: 3559512201976096681}
+  - component: {fileID: 3559512201976096680}
+  - component: {fileID: 3559512201976096683}
+  - component: {fileID: 3559512201976096682}
+  - component: {fileID: 3559512201976096677}
+  - component: {fileID: 3559512201976096676}
+  - component: {fileID: 3559512201976096679}
+  - component: {fileID: 3559512201976096678}
+  - component: {fileID: 3559512201976096673}
+  - component: {fileID: 3559512201976096672}
+  - component: {fileID: 3559512201976096675}
+  - component: {fileID: 3559512201976096674}
+  - component: {fileID: 3559512201976096669}
+  - component: {fileID: 3559512201976096668}
+  - component: {fileID: 3559512201976096671}
+  - component: {fileID: 3559512201976096696}
+  - component: {fileID: 3559512201976096699}
+  - component: {fileID: 3559512201976096698}
+  - component: {fileID: 3559512201976096693}
+  - component: {fileID: 3559512201976096713}
+  - component: {fileID: 3559512201976096712}
+  - component: {fileID: 3559512201976096715}
+  - component: {fileID: 3559512201976096714}
+  - component: {fileID: 3559512201976096709}
+  - component: {fileID: 3559512201976096708}
+  - component: {fileID: 3559512201976096711}
+  - component: {fileID: 3559512201976096710}
+  - component: {fileID: 3559512201976096705}
+  - component: {fileID: 3559512201976096704}
+  - component: {fileID: 3559512201976096707}
+  - component: {fileID: 3559512201976096706}
+  - component: {fileID: 3559512201976096701}
+  - component: {fileID: 3559512201976096700}
+  - component: {fileID: 3559512201976096703}
+  - component: {fileID: 3559512201976096702}
+  - component: {fileID: 3559512201976096697}
+  - component: {fileID: 3559512201976096739}
+  - component: {fileID: 3559512201976096738}
+  - component: {fileID: 3559512201976096733}
+  - component: {fileID: 3559512201976096732}
+  - component: {fileID: 3559512201976096735}
+  - component: {fileID: 3559512201976096734}
+  - component: {fileID: 3559512201976096729}
+  - component: {fileID: 3559512201976096728}
+  - component: {fileID: 3559512201976096731}
+  - component: {fileID: 3559512201976096730}
+  - component: {fileID: 3559512201976096725}
+  - component: {fileID: 3559512201976096724}
+  - component: {fileID: 3559512201976096727}
+  - component: {fileID: 3559512201976096726}
+  - component: {fileID: 3559512201976096721}
+  - component: {fileID: 3559512201976096720}
+  - component: {fileID: 3559512201976096723}
+  - component: {fileID: 3559512201976096722}
+  - component: {fileID: 3559512201976096717}
+  - component: {fileID: 3559512201976096716}
+  - component: {fileID: 3559512201976096719}
+  - component: {fileID: 3559512201976096718}
+  - component: {fileID: 3559512201976096746}
+  - component: {fileID: 3559512201976096741}
+  - component: {fileID: 3559512201976096740}
+  - component: {fileID: 3559512201976096743}
+  - component: {fileID: 3559512201976096742}
+  - component: {fileID: 3559512201976096737}
+  - component: {fileID: 3559512201976096736}
+  m_Layer: 0
+  m_Name: Descriptor1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3559512201976096670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3559512201976096665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e137ac1a418b3a4ba60b6c56db9fc25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterDialogue:
+  - {fileID: 3559512201976096664}
+  - {fileID: 3559512201976096667}
+  - {fileID: 3559512201976096666}
+  - {fileID: 3559512201976096661}
+  - {fileID: 3559512201976096660}
+  - {fileID: 3559512201976096663}
+  - {fileID: 3559512201976096662}
+  - {fileID: 3559512201976096657}
+  - {fileID: 3559512201976096656}
+  - {fileID: 3559512201976096659}
+  - {fileID: 3559512201976096658}
+  - {fileID: 3559512201976096653}
+  - {fileID: 3559512201976096652}
+  - {fileID: 3559512201976096655}
+  - {fileID: 3559512201976096654}
+  - {fileID: 3559512201976096649}
+  - {fileID: 3559512201976096648}
+  - {fileID: 3559512201976096651}
+  - {fileID: 3559512201976096650}
+  - {fileID: 3559512201976096645}
+  - {fileID: 3559512201976096644}
+  - {fileID: 3559512201976096647}
+  - {fileID: 3559512201976096646}
+  - {fileID: 3559512201976096692}
+  - {fileID: 3559512201976096695}
+  - {fileID: 3559512201976096694}
+  - {fileID: 3559512201976096689}
+  - {fileID: 3559512201976096688}
+  - {fileID: 3559512201976096691}
+  - {fileID: 3559512201976096690}
+  - {fileID: 3559512201976096685}
+  - {fileID: 3559512201976096684}
+  - {fileID: 3559512201976096687}
+  - {fileID: 3559512201976096686}
+  - {fileID: 3559512201976096681}
+  - {fileID: 3559512201976096680}
+  - {fileID: 3559512201976096683}
+  - {fileID: 3559512201976096682}
+  - {fileID: 3559512201976096677}
+  - {fileID: 3559512201976096676}
+  - {fileID: 3559512201976096679}
+  - {fileID: 3559512201976096678}
+  - {fileID: 3559512201976096673}
+  - {fileID: 3559512201976096672}
+  - {fileID: 3559512201976096675}
+  - {fileID: 3559512201976096674}
+  - {fileID: 3559512201976096669}
+  - {fileID: 3559512201976096668}
+  - {fileID: 3559512201976096671}
+  - {fileID: 3559512201976096696}
+  - {fileID: 3559512201976096699}
+  - {fileID: 3559512201976096698}
+  - {fileID: 3559512201976096693}
+  - {fileID: 3559512201976096713}
+  - {fileID: 3559512201976096712}
+  - {fileID: 3559512201976096715}
+  - {fileID: 3559512201976096714}
+  - {fileID: 3559512201976096709}
+  - {fileID: 3559512201976096708}
+  - {fileID: 3559512201976096711}
+  - {fileID: 3559512201976096710}
+  - {fileID: 3559512201976096705}
+  - {fileID: 3559512201976096704}
+  - {fileID: 3559512201976096707}
+  - {fileID: 3559512201976096706}
+  - {fileID: 3559512201976096701}
+  - {fileID: 3559512201976096700}
+  - {fileID: 3559512201976096703}
+  - {fileID: 3559512201976096702}
+  - {fileID: 3559512201976096697}
+  - {fileID: 3559512201976096739}
+  - {fileID: 3559512201976096738}
+  - {fileID: 3559512201976096733}
+  - {fileID: 3559512201976096732}
+  - {fileID: 3559512201976096735}
+  - {fileID: 3559512201976096734}
+  - {fileID: 3559512201976096729}
+  - {fileID: 3559512201976096728}
+  - {fileID: 3559512201976096731}
+  - {fileID: 3559512201976096730}
+  - {fileID: 3559512201976096725}
+  - {fileID: 3559512201976096724}
+  - {fileID: 3559512201976096727}
+  - {fileID: 3559512201976096726}
+  - {fileID: 3559512201976096721}
+  - {fileID: 3559512201976096720}
+  - {fileID: 3559512201976096723}
+  - {fileID: 3559512201976096722}
+  - {fileID: 3559512201976096717}
+  - {fileID: 3559512201976096716}
+  - {fileID: 3559512201976096719}
+  - {fileID: 3559512201976096718}
+  - {fileID: 3559512201976096746}
+  - {fileID: 3559512201976096741}
+  - {fileID: 3559512201976096740}
+  - {fileID: 3559512201976096743}
+  - {fileID: 3559512201976096742}
+  - {fileID: 3559512201976096737}
+  - {fileID: 3559512201976096736}
+--- !u!114 &3559512201976096664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 'It''s a beautiful day in the morning, as you get off your bus. A small
+    crowd all around you shuffles all around, some greeting one another, others just
+    making their way across the street into the gate. '
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 2
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You have nobody here, and nobody in the crowd really strikes you as
+    a person, who is going to approach a random nobody like you to start a chat.
+    Especially outside of the place you\u2019re headed to, here you\u2019re still
+    in the normal, almost sane world. "
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 3
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: There, beyond the gate, you will be stuck in a place for all the lone
+    people, who just think that they still haven't found their soulmate. And honestly?
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 4
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You\u2019re just like them. "
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 5
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "As you make your way along with the majority of the crowd, quick glances
+    all around do capture quite a number of interesting individuals. It\u2019s actually
+    quite wondering, what types of people can get gathered in those spaces. From
+    the timid and shy, to the large hulking muscular machines. "
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 6
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 'You would gather that many of those would have no problems finding
+    a pair for themselves, yet here they are, in the same crowd, getting closer and
+    closer to the gates. '
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 7
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Yet as you get closer and closer, you feel your heart beating faster
+    and faster. Is it just your nerves?
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 8
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Stay for a moment and catch a breath
+  nextDialogueIDOne: 9
+  answerTwo: Push forward
+  nextDialogueIDTwo: 11
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You stop for a moment, as the crowd continues further. Obviously,
+    as it turns out, it\u2019s okay. People are free to go and stop, and nobody would
+    complain, why would they?"
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 10
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 'You feel your head spin for a few moments, but you steady yourself
+    in place. Waiting just a minute, you feel much better, and continue with the
+    people. '
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 24
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "No, no, this is probably just your nerves getting to your head. You
+    know, the usual stuff, especially going into such a place. Also it would probably
+    be a bad idea to stop in the middle of the walking crowd, somebody might bump
+    into me, you would only cause distress. With that, you make a step forward\u2026"
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 12
+  consequenceID: 1
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And suddenly you feel as if the ground is approaching your face.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 13
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Your fall stops just a mere moment before hitting the ground, you feeling
+    a strong hand grab you from behind by your collar, and then you get yanked back
+    on your feet.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 500
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You throw a glance behind yourselves, at the person holding you, and
+    see a muscular figure.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 501
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You throw your glance to the side of him, and he chuckles, at the same
+    time pulling you up.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 16
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Just thank him
+  nextDialogueIDOne: 200
+  answerTwo: Thank him in a flirty way
+  nextDialogueIDTwo: 202
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "He finally releases you, as if holding you and making sure you\u2019re
+    not planning to fall again."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 201
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And with that he continues onwards, leaving you behind, as you spend
+    just a few more moments standing and catching your breath.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 24
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You put on your most charming smile, presenting yourself before the
+    man in question, even though he is still holding you by the collar.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 505
+  consequenceID: 0
+  bonusRep: 1
+  bonusRepID: 0
+--- !u!114 &3559512201976096645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "He releases you, making sure you\u2019re standing firm on the ground,
+    and then smiles in answer."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 506
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "And with that he continues onwards, leaving you behind. This surely
+    might prove interesting, and people seem quite friendly\u2026 and more. Perhaps
+    it might just work out in the end."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 22
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You think all that, and potential this could lead to, as you spend
+    just a few more moments standing and catching your breath.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 23
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You continue onto the road, towards the front gates. Many have already
+    passed through, and you stop at the end of the line, waiting for your turn, which
+    approaches within a few minutes.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 24
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Several guards check several at a time, and you too show your document.
+    A man looks over it, comparing it with something in his tablet, and then, just
+    to make sure, asks.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 25
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Guard
+  characterImage: 0
+  dialogText: "So\u2026 Your name is\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.08
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 26
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 4
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 27
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Guard
+  characterImage: 0
+  dialogText: "@MyName, yeah, you\u2019re on the list. You\u2019re free to come through.
+    Remember not to cause any disturbances in your time here, not to harass anybody
+    or you will get kicked out and permanently banned from the place."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 29
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Guard
+  characterImage: 0
+  dialogText: But overall, good luck to you in your search. And welcome to the Lone
+    Souls.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 30
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 'Beyond the gate lies a field with several buildings all around. '
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 30
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Across the days you will spend here, you would probably check out all
+    of them, at least in some capacity, there is talk of more public and private
+    baths, gyms, several small restaurants, parks, and just generally many places
+    one could consider for their dates and getting to know each other.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 31
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: The crowd on this side is much more dispersed- many directions to travel
+    to, and not everybody is allowed through.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 32
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "But what exactly is this place? Well, the camp is called The Lone
+    Souls. Dunno about the history of how exactly it came to be, but basically, as
+    already mentioned, it\u2019s a place where all the people who are far too lonely,
+    but feel like they can change that, they just haven\u2019t yet met the right
+    person, come to."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 33
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "Maybe their usual surroundings don\u2019t quite fit searching for
+    a soulmate. Or maybe they are just too shy to approach somebody, just in case
+    the person is already taken. Well, here such a problem is nonexistent. If the
+    person is still alone, walking around here- he\u2019s probably available."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 34
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: While perhaps at first it was considered to be quite the weird place.
+    It was called a breeding ground, made by perverts for perverts. But it endured,
+    and, well, now it stands as the most popular dating place, more effective than
+    dating apps and such.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 35
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "And that\u2019s the end of that brief history, as far as you could
+    remember, that you remind yourself, while you continue walking down the center
+    street."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 36
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: After a long journey by bus, it has been quite some time, and you kinda
+    starting to feel both tired and hungry. Should probably target those two tasks
+    one after another, so food first.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 37
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "But you should probably find yourself a map of the whole place, and
+    the things that you saw on the site didn\u2019t quite stick in your head. So,
+    finding a map, which should be somewhere around here. Or perhaps ask somebody
+    around, somebody who doesn\u2019t have any luggage on themselves yet."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 38
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Find a map
+  nextDialogueIDOne: 39
+  answerTwo: Ask somebody
+  nextDialogueIDTwo: 59
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You decide against finding somebody around and just finding a map,
+    given that it shouldn't be so difficult- there should be somewhere around where
+    one could find something akin to a map.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 40
+  consequenceID: 3
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And true enough, just getting a bit off the road you find a map of
+    the place. A small crowd gathered around, kinda flocking towards it, looking,
+    chatting, and then crawling their way out of the crowd to proceed to wherever
+    they need.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 41
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You stand a bit from behind, not yet ready to push everybody to the
+    sides, but as you stand from behind, you don\u2019t really move forward- some
+    others just shove their way through the crowd, yet you stand there, in the back."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 42
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: As you contemplate about starting to push forward, you feel an arm
+    lay onto your shoulder, and a silky, smooth voice enters almost as if into your
+    brain.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 300
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You turn back and see a\u2026 spider?"
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 44
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "While obviously not outlawed, all types of insectofolk and arachnofolk
+    were really not finding themselves to be parts of the larger community due to
+    their, quite often, creepy looks and weird behaviours, and as such, quite usually
+    were staying outside of their own places. Seeing one just in public was weird,
+    but seeing one in a place such as that\u2026"
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 45
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: What do you answer, do you need help?
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 46
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Yeah, I could use help.
+  nextDialogueIDOne: 47
+  answerTwo: "No thanks, I don\u2019t need help. "
+  nextDialogueIDTwo: 54
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You smile. Of course you could use some help.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 204
+  consequenceID: 3
+  bonusRep: 1
+  bonusRepID: 1
+--- !u!114 &3559512201976096668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "He smiles, and leads you just a tad bit away from the crowd. As you
+    go away, you do throw a quick glance at the crowd- some people in it were looking
+    at you and your new \u201Ccompanion\u201D. Some of their eyes did show a quick
+    disgust. Even here? Go figure."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 302
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: He looks quite chippy and happy in his voice, as he throws a quick
+    glance at the phone screen you show him, and in a moment you already get a friend
+    invitation, that shows a cute spider on it.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 50
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: The moment you agree, he just sends you several photos- maps of the
+    region, high quality, much better than you could have made photos of, while in
+    the middle of the crowd. You quickly see where the restaurant is, and where the
+    place you were placed in to sleep is located.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 303
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Agree and invite him to go to the restaurant together
+  nextDialogueIDOne: 206
+  answerTwo: Thank him and proceed alone
+  nextDialogueIDTwo: 208
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: He shines you an even more genuine smile, showing absolutely and full
+    excitement, and even giggling a bit, a look which does fill you with a bit of
+    joy.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 305
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You smile, nod, and then, grabbing your suitcase from the ground, proceed
+    towards the location shown on the map, leaving the unnamed arachnofolk behind,
+    still smiling and waving you good luck.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 71
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You feel weirded out. To think they allowed arachnofolk around here?
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 55
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "Obviously your own thoughts about them are your own, but it\u2019s
+    still quite weird. There is a reason for such opinions of their kind. Still,
+    it wouldn't be good to just show your disgust, both not to get kicked out on
+    your first day, but also in case this one could get violent."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 56
+  consequenceID: 0
+  bonusRep: -1
+  bonusRepID: 1
+--- !u!114 &3559512201976096715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: So you just shake off your shoulder, as if you just got a stiff one,
+    and with a strained smile wave your head
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 209
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And to support your words, you just begin to shove your way through
+    the crowd, and away from the guy. Just a quick glance back shows him, quietly
+    saying.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 307
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Now with a reason to move through the crowd, you quite easily reach
+    the map, and snagging a quick photo of it, proceed onwards to the spot that now
+    shows on your phone- restaurant, not even really thinking about what just happened.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 71
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You decide to just go forward. There are certainly some people from
+    before here, it\u2019s obviously not a new crowd every time."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 60
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And sure enough, in a few minutes you stumble upon an ongoing argument.
+    Judging by an amount of clothing on them, as well as lack of any luggage, they
+    were here for quite some time.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 61
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "The argument itself seems to be about their characteristics- a larger
+    one seems to pressure the small, delicate-looking deer boy about him having a
+    \u201Cshitty\u201D personality that is literally too impossible to work with."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 62
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "While both sides seem to be quite angry at one another, the deer boy
+    seems to be on the defensive, and it just seems to come from his extreme positions?
+    At least that\u2019s what you get from a minute of listening."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 63
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Help out deer boy
+  nextDialogueIDOne: 64
+  answerTwo: Just go and find a map
+  nextDialogueIDTwo: 39
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You push forward, and interject into the, already quite loud, argument,
+    with your figure and words.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 210
+  consequenceID: 4
+  bonusRep: 1
+  bonusRepID: 2
+--- !u!114 &3559512201976096706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Bully
+  characterImage: 0
+  dialogText: "Well if he wasn\u2019t such a little b\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 211
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Bully
+  characterImage: 0
+  dialogText: "And I don\u2019t believe that attacking a person so much smaller than
+    you wish so many shouts would lead to anything good, wouldn\u2019t you agree?"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 67
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: The big guy rolls his eyes, and throwing a quick and quite angry glance
+    at the boy behind you, stomps his way away, towards the buildings in the distance.
+    You begin turning back, and the boy grabs your hand, shaking it, with a bright
+    smile.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 400
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You show him your profile name, and after about a minute or so you
+    get a new friend invite- he seems to have his own photo, as a selfie, set to
+    his profile picture, which is quite cute, and a photo sent. It seems to have
+    been made from quite a low angle, but, well, it works and it\u2019s certainly
+    better than nothing."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 402
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Thank him and invite to go to the restaurant together
+  nextDialogueIDOne: 213
+  answerTwo: Thank him and proceed alone
+  nextDialogueIDTwo: 214
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "And you then start walking to the spot on the map, which says \u201Crestaurant\u201D,
+    only turning behind after a short while to turn back and wave your hand to the
+    boy, who brightly smiles, and with a small hops in one spot, also waves back."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 71
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And so, now, with a map in your hands, you move to the spot that is
+    mentioned there as a restaurant. The whole map shows several cafes and restaurants,
+    all of them seem to be hinting upon the different themes and are located on the
+    edges of the camp, and so you proceed to the only one in the centre- The Monarch.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 72
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Arriving there, you get a sight of a large, glassed building of several
+    levels. And judging by a quick look that you throw around, when entering, it
+    seems that the higher levels are for more private businesses.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 73
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Regardless, you head on into the main hall, which is currently bustling
+    with activity- many who have just arrived, but also probably many ones, who lived
+    here for a longer period of time. So, now, a choice.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 74
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 3
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 2
+  clauseTrueID: 75
+  clauseFalseID: 76
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Buff guy from the gates is here, sit with him
+  nextDialogueIDOne: 92
+  answerTwo: Sit at a random empty table
+  nextDialogueIDTwo: 77
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Sit at a random taken table
+  nextDialogueIDOne: 95
+  answerTwo: Sit at a random empty table
+  nextDialogueIDTwo: 77
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You decide to just find yourself an empty table. While large amounts
+    of people are great, socialising instantly with all of them on the spot could
+    be quite hard\u2026 and also you just want to have a good meal, first and foremost."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 78
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "So you find yourself a small table to drop your bags at, if only for
+    a moment, and find a buffet for yourself- such things as regular food at buffet
+    were already paid before you even came here, so it\u2019s all safe."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 79
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Getting yourself some of your more favourite foods, among those which
+    were present, you return to your place and sit down.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 80
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: And the food is, indeed, quite good. You can absolutely enjoy them
+    for quite some time, and as you remember, even if you will get bored from them,
+    well, in that case you can just visit one of the other many places around here.
+    Though for others you would have to pay, most likely.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 81
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: Thinking about all that, you do not notice, as the person comes up
+    to your table.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 82
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 3
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 3
+  clauseTrueID: 88
+  clauseFalseID: 83
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You raise your eyes, and see a\u2026 creature, for certain. While
+    obviously not outlawed, all types of insectofolk and arachnofolk were really
+    not finding themselves to be parts of the larger community due to their, quite
+    often, creepy looks and weird behaviours, and as such, quite usually were staying
+    outside only in their own places. Seeing one just in public was weird, but seeing
+    one in a place such as that\u2026"
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 84
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: He seems to hold a plate in his hands, as well as a phone in one of
+    them. And right now has this constant smile on his face, as he asks.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 308
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Yes, you can sit here
+  nextDialogueIDOne: 215
+  answerTwo: No, I would prefer to sit alone
+  nextDialogueIDTwo: 217
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You smile brightly, pointing to the chair on the other side of the
+    table, which he proceeds to.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 309
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: As the words escape your mouth, the smile on his face fades just a
+    bit. He smiles, nods, and then, with his plate in his hands, moves out, without
+    even looking at you again.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 147
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You raise your eyes, and see a little deer boy. He stands there next
+    to your seat, hands holding a plate of food, and even with you sitting, he is
+    shorter than you. His mouth is just a bit wobbly, and his eyes red, as if from
+    recent crying.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 405
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Yes, you can sit here
+  nextDialogueIDOne: 218
+  answerTwo: No, I would prefer to sit alone
+  nextDialogueIDTwo: 221
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You smile brightly, pointing to the chair on the other side of the
+    table, which he proceeds to.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 406
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: As the words escape your mouth, the smile on his face fades just a
+    bit. He smiles though the red eyes, which seem to start swelling a bit more,
+    nods, and then, with his plate in his hands, moves out, without even looking
+    at you again.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 147
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "You look over the crowd, and notice one of the less full tables has
+    the guy that you met at the gates, sitting at. And while he does seem to be sitting
+    with the table full of people, he doesn\u2019t seem to be particularly chatting
+    with anybody. It is about time you got some more socialisation, and getting on
+    with a person you already met before would prove to be quite beneficial."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 93
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "So you just quickly grab yourself something from the buffet- such
+    things as regular food at buffet were already paid before you even came here,
+    so it\u2019s all safe. So you just find something for yourself amidst the selection
+    of food, and carrying the bag in one hand and the plate in another, come to the
+    chair next to the guy, asking."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 222
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You sit down, and he smiles invitingly.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 508
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You look over the crowd, and notice one of the less full tables, which
+    you could absolutely sit and potentially strike a conversation. It is about time
+    you got some more socialisation, and just striking a conversation could prove
+    to be quite beneficial.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 96
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: "So you just quickly grab yourself something from the buffet- such
+    things as regular food at buffet were already paid before you even came here,
+    so it\u2019s all safe. So you just find something for yourself amidst the selection
+    of food, and carrying the bag in one hand and the plate in another, come to the
+    chair next to the guy sitting there on the edge, and ask."
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 223
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: You sit down, and he smiles invitingly.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 510
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: 
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: Agree to chat
+  nextDialogueIDOne: 224
+  answerTwo: Show disinterest in chatting
+  nextDialogueIDTwo: 225
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 0
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &3559512201976096736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3559512201976096641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 1
+  characterNameToDisplay: 
+  characterImage: 0
+  dialogText: He smiles, and then returns to his food. After, like, 5 minutes, he
+    finishes with it, and gets up, waves to you, still eating, and gets out of the
+    restaurant, leaving you at the table.
+  additionalEffects: 0
+  position: 0
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 147
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0

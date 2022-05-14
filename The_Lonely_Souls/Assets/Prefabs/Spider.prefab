@@ -1,0 +1,1177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5255700171897820996
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5255700171897820970}
+  - component: {fileID: 5255700171897820965}
+  - component: {fileID: 5255700171897820964}
+  - component: {fileID: 5255700171897820967}
+  - component: {fileID: 5255700171897820966}
+  - component: {fileID: 5255700171897820961}
+  - component: {fileID: 5255700171897820960}
+  - component: {fileID: 5255700171897820963}
+  - component: {fileID: 5255700171897820962}
+  - component: {fileID: 5255700171897820989}
+  - component: {fileID: 5255700171897820988}
+  - component: {fileID: 5255700171897820991}
+  - component: {fileID: 5255700171897820990}
+  - component: {fileID: 5255700171897820985}
+  - component: {fileID: 5255700171897820984}
+  - component: {fileID: 5255700171897820987}
+  - component: {fileID: 5255700171897820986}
+  - component: {fileID: 5255700171897820981}
+  - component: {fileID: 5255700171897820980}
+  - component: {fileID: 5255700171897820983}
+  - component: {fileID: 5255700171897820982}
+  - component: {fileID: 5255700171897820977}
+  - component: {fileID: 5255700171897820976}
+  - component: {fileID: 5255700171897820979}
+  - component: {fileID: 5255700171897820978}
+  - component: {fileID: 5255700171897821005}
+  - component: {fileID: 5255700171897821004}
+  - component: {fileID: 5255700171897821007}
+  - component: {fileID: 5255700171897821006}
+  - component: {fileID: 5255700171897821001}
+  - component: {fileID: 5255700171897821000}
+  - component: {fileID: 5255700171897821003}
+  - component: {fileID: 5255700171897821002}
+  - component: {fileID: 5255700171897820997}
+  m_Layer: 0
+  m_Name: Spider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5255700171897820970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5255700171897820965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e137ac1a418b3a4ba60b6c56db9fc25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterDialogue:
+  - {fileID: 5255700171897820964}
+  - {fileID: 5255700171897820967}
+  - {fileID: 5255700171897820966}
+  - {fileID: 5255700171897820961}
+  - {fileID: 5255700171897820960}
+  - {fileID: 5255700171897820963}
+  - {fileID: 5255700171897820962}
+  - {fileID: 5255700171897820989}
+  - {fileID: 5255700171897820988}
+  - {fileID: 5255700171897820991}
+  - {fileID: 5255700171897820990}
+  - {fileID: 5255700171897820985}
+  - {fileID: 5255700171897820984}
+  - {fileID: 5255700171897820987}
+  - {fileID: 5255700171897820986}
+  - {fileID: 5255700171897820981}
+  - {fileID: 5255700171897820980}
+  - {fileID: 5255700171897820983}
+  - {fileID: 5255700171897820982}
+  - {fileID: 5255700171897820977}
+  - {fileID: 5255700171897820976}
+  - {fileID: 5255700171897820979}
+  - {fileID: 5255700171897820978}
+  - {fileID: 5255700171897821005}
+  - {fileID: 5255700171897821004}
+  - {fileID: 5255700171897821007}
+  - {fileID: 5255700171897821006}
+  - {fileID: 5255700171897821001}
+  - {fileID: 5255700171897821000}
+  - {fileID: 5255700171897821003}
+  - {fileID: 5255700171897821002}
+  - {fileID: 5255700171897820997}
+--- !u!114 &5255700171897820964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: "Need help with moving towards the front? I see you\u2019re kinda lost
+    around here. "
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 43
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: Oh, just a photo? With that I can just help you, come with me just
+    a tad bit away from the people, I will just send it to you.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 48
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: So, have you already connected to the wifi network here? What's your
+    Fursnap?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 205
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: See? Much better and easier! Did I do a good job?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 51
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: "Then I\u2019m glad to be of help to you! What is it?"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 207
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: Yes absolutely we could! Yes, yes, and a thousand times more yes!
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 100
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: "Then I\u2019m glad to be of help to you!"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 53
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: "Yeah, yeah, sorry\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 58
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: Spider
+  characterImage: 0
+  dialogText: Sorry, is it free? Can I sit here with you?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 85
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Then don\u2019t mind if I do. I just noticed that you were sitting
+    here all alone, and, well, couldn\u2019t pass such an opportunity. Oh, forgive
+    me, I should have introduced myself! My name is @SpiderName! I\u2019m kinda an
+    all around programmer around here, you know, stretching my webs all around\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 310
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Oh, sorry for rambling again\u2026 What is your name?"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 216
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Well, if it isn\u2019t a pretty name\u2026 Okay, I think it would
+    be much easier and more effective, if you would just ask me questions, because
+    otherwise I will just ramble for hours on end."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 111
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: So, wanna still sit and eat with me? We can chat, we can talk, whatever
+    you want.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 105
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "So, if you have any questions, I\u2019m all ears, not that I have
+    them, but still\u2026 You will be eating, I will be eating and answering."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 111
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: Ah. Well, not much. The place is huge, and a lot of money clearly goes
+    into it. Even after spending a month here you could not see everything there
+    is to offer here. It was specifically built to have stuff to explore, so even
+    not everything is on the map.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 315
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "For example, I once just randomly stumbled upon an underground cafe
+    built in an old bunker, and being run by a single grandpa. Crazy, isn\u2019t
+    it? I wasn\u2019t the only visitor of his, but, well, it\u2019s really not marketed
+    at all, and mostly just spreads from mouth to mouth."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 316
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: But generally, you just wander around, see fun stuff, do what is interesting
+    to you, show yourself as presentable as you could be, and try to strike a conversation
+    with those, who are just like you- also alone around here.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 317
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "For some it\u2019s easier, but, well, at least around here there is
+    a high chance that somebody is going to strike a conversation with you, if you
+    yourself are not too threateningly looking, or, well, not a spider."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 318
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: There is not much racism around here, but prejudices are hard to die.
+    But, hey, look at you, listening to me rambling again. Should probably try and
+    return to the question.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 319
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Life around here is quiet until it\u2019s not. You spend your time
+    at your own leisure, and then you find somebody who rocks your entire world,
+    and, well, you can either stick together, and after some time understand that
+    you are truly fit for one another, or, well, burn quick, burn bright, and break
+    apart, returning to the previous step."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 320
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Obviously, different experiences for different people. Can\u2019t
+    really add more\u2026 Sorry, anything else?"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 112
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Ohh, you\u2019re going to make me blush. Yes, of course you could."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 322
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "I\u2019m 25 years old. Am a programmer, as you could have guessed.
+    Am from downhive Zatak, if you even know where it is, don\u2019t worry if not,
+    it\u2019s in the middle of nowhere. Cool place, but, well, not many visitors
+    of other species, as usual."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 323
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Gathered money, decided to take a shot and try to find myself a pair.
+    Obviously just going to cities wouldn\u2019t yield me anything, except for a
+    chance to get shot, but this place doesn\u2019t ban arachnofolk. I did have to
+    go through far too many tests, and have to report back every three days, but,
+    you know, something?"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 324
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Though my successes haven\u2019t been that high, as you could see,
+    with me still being here. Had a few nice meetings, they didn\u2019t last long.
+    WIth me having quite a severe ADHD, and, well, also just being\u2026 me. Honestly,
+    sorry for me just pulling you in and telling my entire life, but, well, you at
+    least didn\u2019t reject me straight away\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 325
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: Anything else?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 113
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: Thanks to you for actually listening to me ramble! Yeah, it gets dark
+    around here fast. You will find where to go, I hope?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 231
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Ah, no, no, I, well, as arachnofolk I have been assigned to a different
+    sleeping spot. Don\u2019t worry, all good, just, you know, general precautions."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 232
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: Yes yes, what is it?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 235
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Well, if you want to, then I guess sure, we could certainly do that\u2026
+    I would absolutely be up for it, and I hope you would too, but what if not, what
+    if you\u2019re only saying it to be nice."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 236
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897821002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: "Really? Well, then\u2026 yes, absolutely! Let\u2019s do it!"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 117
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &5255700171897820997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5255700171897820996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@SpiderName'
+  characterImage: 0
+  dialogText: Well then, I hope you will be able to find where you need to stay,
+    good luck, see you tomorrow!
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 118
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0

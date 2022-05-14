@@ -1,0 +1,830 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7629119829110125084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7629119829110125074}
+  - component: {fileID: 7629119829110125085}
+  - component: {fileID: 7629119829110125060}
+  - component: {fileID: 7629119829110125063}
+  - component: {fileID: 7629119829110125062}
+  - component: {fileID: 7629119829110125057}
+  - component: {fileID: 7629119829110125056}
+  - component: {fileID: 7629119829110125059}
+  - component: {fileID: 7629119829110125058}
+  - component: {fileID: 7629119829110125069}
+  - component: {fileID: 7629119829110125068}
+  - component: {fileID: 7629119829110125071}
+  - component: {fileID: 7629119829110125070}
+  - component: {fileID: 7629119829110125065}
+  - component: {fileID: 7629119829110125064}
+  - component: {fileID: 7629119829110125067}
+  - component: {fileID: 7629119829110125066}
+  - component: {fileID: 7629119829110125077}
+  - component: {fileID: 7629119829110125076}
+  - component: {fileID: 7629119829110125079}
+  - component: {fileID: 7629119829110125078}
+  - component: {fileID: 7629119829110125073}
+  - component: {fileID: 7629119829110125072}
+  - component: {fileID: 7629119829110125075}
+  m_Layer: 0
+  m_Name: Deer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7629119829110125074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 58.453693, y: 43.058224, z: 15.159119}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7629119829110125085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e137ac1a418b3a4ba60b6c56db9fc25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterDialogue:
+  - {fileID: 7629119829110125060}
+  - {fileID: 7629119829110125063}
+  - {fileID: 7629119829110125062}
+  - {fileID: 7629119829110125057}
+  - {fileID: 7629119829110125056}
+  - {fileID: 7629119829110125059}
+  - {fileID: 7629119829110125058}
+  - {fileID: 7629119829110125069}
+  - {fileID: 7629119829110125068}
+  - {fileID: 7629119829110125071}
+  - {fileID: 7629119829110125070}
+  - {fileID: 7629119829110125065}
+  - {fileID: 7629119829110125064}
+  - {fileID: 7629119829110125067}
+  - {fileID: 7629119829110125066}
+  - {fileID: 7629119829110125077}
+  - {fileID: 7629119829110125076}
+  - {fileID: 7629119829110125079}
+  - {fileID: 7629119829110125078}
+  - {fileID: 7629119829110125073}
+  - {fileID: 7629119829110125072}
+  - {fileID: 7629119829110125075}
+--- !u!114 &7629119829110125060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: Oh gods, thank you so much! Thank you so, so very much! You practically
+    saved me from that one. Can I help you with anything?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 212
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: "Oh, you\u2019re one of the new arrivals? Yes, I could absolutely help
+    with that. Most of us just carry a map on the phone, so I snatched a quick photo.
+    Could send you it, if you need, if you will tell me your Fursnap."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 68
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: So, all good?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 69
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: Oh.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.2
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 404
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: "Ohh\u2026 Aren\u2019t you a gentleman? Well if you invite me like
+    that, then absolutely yes we could. Let\u2019s go, I\u2019ll show you the way."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 119
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: "Sorry for interrupting you in the middle of the process, but can I
+    please sit here with you? You seemed to be alone enough, and, well, yes\u2026"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 89
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: ???
+  characterImage: 0
+  dialogText: Thanks, and, well, sorry for dropping like that on you. Just had a
+    loud argument outside, and, well, feeling far too unsafe.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 219
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "Yeah, yeah, don\u2019t worry. Oh, sorry, I should really probably
+    introduce myself. My name is @DeerName."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 220
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "Oh, well\u2026 You know, just mostly conflicting personalities. I
+    keep getting together with people, and then we strike a dispute between one another,
+    and, well, it devolves into unnecessary screams, and that\u2019s how I have been
+    spending a lot of my time here."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 409
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "Say, better than me just rambling about my problems, you seem to only
+    have just recently arrive, why don\u2019t you just ask me some questions? "
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 130
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: 'So, shall we go and find ourselves a place to sit and eat? Or did
+    you only need me to find the place? '
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 125
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "So, while we eat, you\u2019re free to just ask me questions. I like
+    touring newcomers around here don\u2019t worry, I don\u2019t mind."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 130
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: Well, lots and more, though I think a lot of things should be explored
+    on your own. It was built to be explorable in depth, and only about a third of
+    all attractions are shown on the map. But I can tell you about some things you
+    could expect.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 413
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "On the edges of the camp, there are a bunch of cafes and restaurants.
+    After midnight, I recommend you check out Harmony on the western edge. It\u2019s
+    closed most of the time, but opens around midnight. Beautiful place to meet beautiful
+    and interesting people."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 414
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: Then there are different activity zones. Depending on whatever you
+    like, main places to hang out with your people are usually shown on the map,
+    and then around there, if you can find somebody who is open enough and has lived
+    here for some time, they could introduce you to other zones, which also focus
+    on your interest. Rabbit hole could sometimes lead quite deep.
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 415
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "And usually, just don\u2019t be afraid to come to somebody and start
+    chatting to them. Would be a good idea to ask if they are free first, but after
+    that, all can do. Though, as you understand, probably don\u2019t get creepy right
+    out of the gate. Some might like it, but there is a high chance that you will
+    just get banned from the place. So\u2026 yeah."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 131
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "Well of course I could. I\u2019m 23 years old, and I come from a big
+    city here. Have been here for, like, half a year already, to be perfectly honest.
+    Want to push on for just a bit more and then will probably return back for the
+    time being. Dunno."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 417
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "My level of success, well, you did see how it was. Maybe it will work
+    out, maybe not, we\u2019ll see. "
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 132
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: No no, thanks to you for listening to me ramble without end. Yeah hopefully
+    it will work out. Will you be able to find the place where to go?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 242
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "Ah, no, don\u2019t worry, I still have places to go during the night.
+    Don\u2019t worry, you are free to go to sleep."
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 134
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: What is it?
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 245
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
+--- !u!114 &7629119829110125075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629119829110125084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2f36a68742ad248bdd52e5e221de00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 0
+  characterNameToDisplay: '@DeerName'
+  characterImage: 0
+  dialogText: "If you say it like that, you know I can\u2019t just say no, so of
+    course I will say yes, so yeah, yeah, we could meet again tomorrow. I should
+    run now, but feel free to find me tomorrow, or I will find you, or whatever anyway
+    good luck!"
+  additionalEffects: 0
+  position: 1
+  speedOfLetters: 0.05
+  answerOne: 
+  nextDialogueIDOne: 0
+  answerTwo: 
+  nextDialogueIDTwo: 0
+  answerThree: 
+  nextDialogueIDThree: 0
+  clauseAndReason: 0
+  clauseTrueID: 0
+  clauseFalseID: 0
+  nextDialogueID: 137
+  consequenceID: 0
+  bonusRep: 0
+  bonusRepID: 0
